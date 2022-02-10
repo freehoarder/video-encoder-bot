@@ -11,8 +11,8 @@
     "API_HASH": {
       "description": "you telegram api hash"
     },
-    "MONGO_URL": {
-      "description": "your mongo database url"
+    "DOWNLOAD_DIR": {
+      "description": "your download loaction, Must end with '/' "
 }
   },
   "buildpacks": [
