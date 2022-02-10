@@ -1,6 +1,9 @@
 # Video Encoder Bot
 A Telegram bot to convert videos into x265/x264 format via ffmpeg.
 
+## Deploy to Heroku:
+<p align="left"><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
 ### Configuration
 Add values in environment variables or add them in [config.env.template](./config.env.template) and rename file to `config.env`.
 - `API_ID` - Get it by creating an app on [https://my.telegram.org](https://my.telegram.org)
