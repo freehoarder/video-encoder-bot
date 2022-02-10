@@ -2,7 +2,7 @@
 A Telegram bot to convert videos into x265/x264 format via ffmpeg.
 
 ## Deploy to Heroku:
-<p align="left"><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/freehoarder/video-encoder-bot/tree/master)
 
 ### Configuration
 Add values in environment variables or add them in [config.env.template](./config.env.template) and rename file to `config.env`.
