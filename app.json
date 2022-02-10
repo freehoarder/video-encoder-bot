@@ -1,5 +1,8 @@
 {
-  "name": "videoencoderbot",
+	"name": "VidCoder",
+	"description": "Run FFMPEG on heroku",
+	"repository": "https://github.com/freehoarder/video-encoder-bot",
+	"keywords": ["ffmpeg"],
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token",
